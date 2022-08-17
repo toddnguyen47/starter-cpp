@@ -1,0 +1,36 @@
+* text=auto, eol=lf
+
+# Additional Source Text here
+*.cpp text
+*.cc text
+*.h text
+*.hpp text
+
+# Additional Binary here
+
+
+# *********************************************************
+# Below are defaults that should be in most .gitattributes
+# *********************************************************
+
+# Default Config Text
+*.adoc text
+*.cfg text
+*.csv text
+*.ini text
+*.json text
+*.md text
+*.properties text
+*.toml text
+*.txt text
+*.xml text
+*.yaml text
+*.yml text
+
+# Default Binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary
+*.png binary
+*.xls binary
+*.xlsx binary
